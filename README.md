@@ -1,79 +1,80 @@
-HR Analytics Dashboard (Power BI)
-Overview
+# HR Analytics Dashboard (Power BI)
 
-This project is an HR analytics dashboard built in Power BI to analyze employee performance, workforce distribution, and HR decision needs. It provides a structured view of key HR metrics, operational actions, and detailed analysis to support data-driven HR management.
+## Overview
+This project presents an HR analytics dashboard built in Power BI to help organizations monitor workforce trends, track employee status, and support HR decision-making. The dashboard transforms employee data into actionable insights through structured visualizations and operational reporting.
 
-Dashboard Structure
+## Dashboard Structure
 
-The report is divided into three main pages:
+### Home Page – Summary Dashboard
+The Home page provides a high-level overview of the workforce.
 
-1. Home (Summary Dashboard)
+Key elements displayed:
+- Total number of employees
+- Key HR performance indicators (KPIs)
+- Workforce overview metrics
+- Organizational health summary
 
-This is the main overview page showing key HR metrics such as:
+**Purpose:** Provide leadership with a quick understanding of the current workforce situation.
 
-Total employees
-Key performance indicators (KPIs)
-Workforce distribution overview
-High-level HR health insights
+### Action Page – HR Operational Decisions
+The Action page highlights employees requiring HR attention.
 
-This page answers: “What is happening in the organization?”
+The page includes tables showing:
+- Employee names
+- Employees to be referenced
+- Employees due for promotion
+- Employees eligible for benefits
 
-2. Action Page (HR Decisions)
+**Purpose:** Help HR teams quickly identify employees that require immediate action.
 
-This page focuses on actionable HR items, including:
+### Details Page – Analytical Insights
+The Details page provides deeper analysis of employee data.
 
-Employee names
-Employees to be referenced
-Employees due for promotion
-Benefit eligibility status
+Visual elements include:
+- Combo charts
+- Analytical tables
+- Detailed breakdown of HR indicators
 
-This page supports HR decision-making and answers:
-“What actions should be taken?”
+**Purpose:** Allow HR analysts to explore patterns and understand workforce trends.
 
-3. Details Page (Deep Analysis)
+## Tools Used
+- Power BI
+- Data Transformation
+- Data Modeling
+- DAX (where applicable)
 
-This page provides deeper insights using:
+## Key Insights
+- Promotion eligibility can be quickly identified.
+- HR actions are centralized within one operational view.
+- Workforce patterns are visible through analytical charts.
+- Detailed tables allow employee-level analysis.
 
-Combo charts
-Detailed tables
-Comparative analysis visuals
+## Dashboard Screenshots
 
-It explains patterns behind the data and answers:
-“Why is this happening?”
+### Home Dashboard
+![Home Dashboard](images/home.png)
 
-Tools Used
-Power BI
-Data Cleaning & Transformation
-Data Modeling
-DAX (if used)
-Key Insights
-Employee performance trends can be tracked across departments
-Promotion and benefits eligibility can be identified clearly
-Operational HR actions are centralized in one view
-Data patterns help explain workforce behavior
-Screenshots
-Home Page
+### Action Dashboard
+![Action Page](images/action.png)
 
-Action Page
+### Details Dashboard
+![Details Page](images/details.png)
 
-Details Page
+## Business Value
+This dashboard helps HR teams:
+- Monitor employee status efficiently
+- Identify promotion candidates
+- Track benefit eligibility
+- Support data-driven workforce management
 
-Business Value
+## Author
+James Chigbo  
+Data Analyst – Power BI, Excel, Data Automation  
 
-This dashboard helps HR teams to:
+GitHub: https://github.com/Dera51  
+LinkedIn: https://www.linkedin.com/in/james-chigbo-41a451234  
 
-Make faster promotion decisions
-Track employee performance efficiently
-Identify eligible employees for benefits
-Understand workforce trends at a glance
-Author
-
-James Chigbo
-Data Analyst | Power BI | Excel | Automation
-GitHub: https://github.com/Dera51
-
-LinkedIn: https://www.linkedin.com/in/james-chigbo-41a451234
-
-Next Improvement Ideas
-Add predictive attrition model
-Automate HR reporting
+## Future Improvements
+- Add predictive analytics for employee attrition
+- Automate HR reporting updates
+- Connect the dashboard to a live HR database
