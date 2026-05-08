@@ -52,13 +52,13 @@ Visual elements include:
 ## Dashboard Screenshots
 
 ### Home Dashboard
-![Home Dashboard](images/home.png)
+![Home Dashboard](images/Home.png)
 
 ### Action Dashboard
-![Action Page](images/action.png)
+![Action Page](images/Action.png)
 
 ### Details Dashboard
-![Details Page](images/details.png)
+![Details Page](images/Details.png)
 
 ## Business Value
 This dashboard helps HR teams:
